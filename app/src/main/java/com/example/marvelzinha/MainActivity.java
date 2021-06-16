@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
             }
         });
-
+		// Sensor 
         SM = (SensorManager) getSystemService(SENSOR_SERVICE);
         mySensor = SM.getDefaultSensor(Sensor.TYPE_LINEAR_ACCELERATION);
         SM.registerListener((SensorEventListener) this, mySensor, SensorManager.SENSOR_DELAY_NORMAL);
