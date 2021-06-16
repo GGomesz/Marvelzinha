@@ -1,5 +1,5 @@
 *Features
-
+Cancel changes
 -Pesquisar descrição.<br/>
 -Balançar o dispositivo para tocar um audio.<br/>
 -Mostrar localização do Marvel Avengers S.T.A.T.I.O.N com ajuda da API Maps da Google.<br/>
@@ -9,12 +9,12 @@
 
 -Geolocalização.<br/>
 -Banco de dados.<br/>
--Using an AsyncTask to do background work.
--AsyncTask no background da app.
--Requesting permissions at runtime.
--Requerimento de permissão em tempo de execução.
--Google Maps API para mostrar mapa.
--API Marvel para mostrar significados das palavras.
+-Using an AsyncTask to do background work.<br/>
+-AsyncTask no background da app.<br/>
+-Requesting permissions at runtime.<br/>
+-Requerimento de permissão em tempo de execução.<br/>
+-Google Maps API para mostrar mapa.<br/>
+-API Marvel para mostrar significados das palavras.<br/>
 
 SITE DA API MARVEL : https://developer.marvel.com/docs
 
