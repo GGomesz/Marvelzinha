@@ -19,9 +19,9 @@ Cancel changes
 SITE DA API MARVEL : https://developer.marvel.com/docs
 
 HOW TO USE
-1.Download the code.
-2.Open the code in Android Studio.
-3.Run the app.
+1.Download the code.<br/>
+2.Open the code in Android Studio.<br/>
+3.Run the app.<br/>
 
 
 MADE BY Fernando Gomes & Gabriel Wilke
