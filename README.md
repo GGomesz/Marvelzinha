@@ -1,14 +1,14 @@
 *Features
 
--Pesquisar descrição.
--Balançar o dispositivo para tocar um audio.
--Mostrar localização do Marvel Avengers S.T.A.T.I.O.N com ajuda da API Maps da Google.
--Salvar pesquisas já feitas em banco de dados interno.
+-Pesquisar descrição.<br/>
+-Balançar o dispositivo para tocar um audio.<br/>
+-Mostrar localização do Marvel Avengers S.T.A.T.I.O.N com ajuda da API Maps da Google.<br/>
+-Salvar pesquisas já feitas em banco de dados interno.<br/>
 
 *Esse app ultiliza:
 
--Geolocalização.
--Banco de dados.
+-Geolocalização.<br/>
+-Banco de dados.<br/>
 -Using an AsyncTask to do background work.
 -AsyncTask no background da app.
 -Requesting permissions at runtime.
